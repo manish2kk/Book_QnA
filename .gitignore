@@ -3,6 +3,5 @@ __pycache__/
 *.pyc
 .DS_Store
 gpt_checkpoints/
-qa_finetune/
 z_doc/
 Yoga_Books_&_Blog/
