@@ -1,4 +1,4 @@
-Using spiritual pdf books to train a new kind of language model, that try to achive more intelligence in lesser amount of data. But it is a different kind of data.
+Using spiritual pdf books to train a new kind of language model, that try to achive more intelligence in lesser amount of data. But with a different kind of data.
 
 Philosophy:
 
