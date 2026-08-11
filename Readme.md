@@ -6,3 +6,6 @@ Philosophy:
 - Real Inteligence is not in text, images, multimodel.
 - Because these data are just a byproduct of something else, pure intelligence.
 - Real super-intelligence is not in data.
+
+Current state:
+In Ideation phase.
